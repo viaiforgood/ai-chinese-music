@@ -4,18 +4,28 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 [![Platform: Suno & Udio](https://img.shields.io/badge/Models-Suno_v3.5%2Fv4_%7C_Udio-blue.svg)](https://suno.com)
 [![Web Portal: music.weiai.ai](https://img.shields.io/badge/Portal-music.weiai.ai-emerald.svg)](https://music.weiai.ai)
-[![Short Link: mu.weiai.ai](https://img.shields.io/badge/Short_Link-mu.weiai.ai-cyan.svg)](https://mu.weiai.ai)
+[![Short Link: mu.vi.fyi](https://img.shields.io/badge/Short_Link-mu.vi.fyi-cyan.svg)](https://mu.vi.fyi)
 [![Contest: chinesemusic.ai](https://img.shields.io/badge/Contest-chinesemusic.ai-orange.svg)](https://chinesemusic.ai)
 
 > **以人赋灵，以算铸乐；传承华韵，共谱新声。**  
-> 🌐 **在线互动工坊**：[https://music.weiai.ai](https://music.weiai.ai) ｜ [https://mu.weiai.ai](https://mu.weiai.ai)  
+> 🌐 **在线互动工坊**：[https://music.weiai.ai](https://music.weiai.ai) ｜ [https://mu.vi.fyi](https://mu.vi.fyi) *(测试版: [mu.weiai.ai](https://mu.weiai.ai))*  
 > 🏆 **官方大赛直达**：[https://chinesemusic.ai](https://chinesemusic.ai)
+
+---
+
+## 🤝 聯合主辦與戰略夥伴 (Organizers & Partners)
+
+本項目與唯愛 AI 音樂學苑由以下機構聯合呈獻與深度協同：
+* 🏛️ **唯愛AI公益基金會 (VI AI for Good Foundation 501(c)(3))**
+* 🏛️ **北美浙江大學校友會 (ZJUAANC · zjuaanc.org)**
+* 🏛️ **北美高校校友聯合會 (NACUAANC · nacuaanc.org)**
+* 🚀 **NACUAA 人工智能創投資與影響力俱樂部 (AI Venture and Impact Club of NACUAA · ai.nacuaa.org)**
 
 ---
 
 ## 📖 項目簡介 (Overview)
 
-**AI Chinese Music Toolkit** 是由 **唯愛AI公益基金會 (VI AI for Good Foundation 501(c)(3))** 發起的開源華樂生成式 AI 創作指南與 Prompt 工程庫。
+**AI Chinese Music Toolkit** 是由 **唯愛AI公益基金會** 攜手 **北美浙江大學校友會 (ZJUAANC)**、**北美高校校友聯合會 (NACUAANC)** 及 **AI Venture and Impact Club of NACUAA** 共同發起的開源華樂生成式 AI 創作指南與 Prompt 工程庫。
 
 由於主流音樂生成大模型（Suno、Udio、MusicGen 等）多以西方流行樂語料為基準訓練，在生成純正中國五聲調式（華樂/國風）時常出現“塑料民樂感”、“樂器打架”或“調式不純”等問題。本項目旨在建立首個**開源標準化的華樂 AI 提示詞工程詞典、五聲調式提示詞公式、30+ 實戰爆款配方與 CLI 工具**。
 
