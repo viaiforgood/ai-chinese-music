@@ -1,0 +1,39 @@
+{
+  "name": "@viaiforgood/ai-chinese-music",
+  "version": "1.0.0",
+  "description": "🎼 The Open-Source AI Chinese Music (華樂) Creation Toolkit & Prompt Cookbook for Suno, Udio, and AIGC Composers.",
+  "main": "bin/cli.js",
+  "bin": {
+    "ai-chinese-music": "bin/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node bin/cli.js --recipe=desert-epic"
+  },
+  "keywords": [
+    "ai-music",
+    "suno",
+    "udio",
+    "chinese-music",
+    "huayue",
+    "guofeng",
+    "pentatonic",
+    "guzheng",
+    "pipa",
+    "erhu",
+    "dizi",
+    "prompt-engineering",
+    "viaiforgood"
+  ],
+  "author": "VI AI for Good Foundation (唯爱AI公益基金会) <contact@weiai.ai> (https://weiai.ai)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viaiforgood/ai-chinese-music.git"
+  },
+  "bugs": {
+    "url": "https://github.com/viaiforgood/ai-chinese-music/issues"
+  },
+  "homepage": "https://music.weiai.ai"
+}

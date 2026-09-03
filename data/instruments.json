@@ -1,0 +1,162 @@
+[
+  {
+    "id": "guzheng",
+    "name": "古筝",
+    "pinyin": "Gǔzhēng",
+    "category": "Plucked Strings (弹拨乐器)",
+    "englishTerms": ["Guzheng", "Chinese Zither", "21-string zither"],
+    "promptKeywords": "virtuosic guzheng plucks, cascading arpeggios, rapid glissando, shimmering harp-like runs, delicate bendings",
+    "soundCharacter": "Resonant, cascading, fluid, elegant, reminiscent of flowing mountain streams",
+    "playingTechniques": ["Glissando (刮奏)", "Tremolo (摇指)", "Harmonics (泛音)", "Pitch Bending (按音/滑音)"]
+  },
+  {
+    "id": "guqin",
+    "name": "古琴",
+    "pinyin": "Gǔqín",
+    "category": "Plucked Strings (弹拨乐器)",
+    "englishTerms": ["Guqin", "Seven-string zither", "Ancient zither"],
+    "promptKeywords": "deep meditative guqin resonance, low acoustic timbre, sliding harmonics, spacious silence, contemplative zen",
+    "soundCharacter": "Subtle, introspective, profound, earthy low-end resonance, philosophical",
+    "playingTechniques": ["Sliding Pitch (吟猱)", "Harmonics (散音/泛音)", "Muted Pluck (按音)"]
+  },
+  {
+    "id": "pipa",
+    "name": "琵琶",
+    "pinyin": "Pípá",
+    "category": "Plucked Strings (弹拨乐器)",
+    "englishTerms": ["Pipa", "Chinese Lute", "Four-string plucked lute"],
+    "promptKeywords": "sharp dynamic pipa tremolo, passionate martial plucking, percussive fret slap, rapid wheel-finger picking",
+    "soundCharacter": "Crisp, pearly, dramatic, fiery, capable of both martial ferocity and delicate intimacy",
+    "playingTechniques": ["Tremolo (轮指)", "Slap (煞音)", "Bending (推挽)", "Percussive Strike (扫拂)"]
+  },
+  {
+    "id": "yangqin",
+    "name": "扬琴",
+    "pinyin": "Yángqín",
+    "category": "Plucked Strings (弹拨乐器)",
+    "englishTerms": ["Yangqin", "Chinese hammered dulcimer", "Chinese santur"],
+    "promptKeywords": "bright crystalline yangqin hammer strikes, fast rhythmic cascades, metallic resonance, lively bounce",
+    "soundCharacter": "Sparkling, percussive, agile, wide dynamic range",
+    "playingTechniques": ["Single strike (单打)", "Double bounce (双打)", "Tremolo roll (滚竹)"]
+  },
+  {
+    "id": "ruan",
+    "name": "中阮 / 大阮",
+    "pinyin": "Ruǎn",
+    "category": "Plucked Strings (弹拨乐器)",
+    "englishTerms": ["Ruan", "Zhongruan", "Moon guitar", "Chinese round lute"],
+    "promptKeywords": "warm woody zhongruan acoustic chords, mellow mid-range groove, rhythmic comping, warm plucked rhythm",
+    "soundCharacter": "Mellow, warm, acoustic guitar-like body, rich mid-range grounding",
+    "playingTechniques": ["Chord strumming (扫弦)", "Melodic lead (滚奏)"]
+  },
+  {
+    "id": "erhu",
+    "name": "二胡",
+    "pinyin": "Èrhú",
+    "category": "Bowed Strings (拉弦乐器)",
+    "englishTerms": ["Erhu", "Two-string Chinese fiddle", "Southern fiddle"],
+    "promptKeywords": "soulful weeping erhu melody, emotional crying violin timbre, expressive portamento slides, human vocal-like vibrato",
+    "soundCharacter": "Intensely emotive, vocal-like, melancholic, soaring and lyrical",
+    "playingTechniques": ["Glissando Slide (滑音)", "Expressive Vibrato (揉弦)", "Fast Staccato (顿弓)"]
+  },
+  {
+    "id": "gaohu",
+    "name": "高胡",
+    "pinyin": "Gāohú",
+    "category": "Bowed Strings (拉弦乐器)",
+    "englishTerms": ["Gaohu", "Cantonese high-pitched fiddle"],
+    "promptKeywords": "bright piercing gaohu lead, shimmering soaring high-register melodies, agile ornamentation",
+    "soundCharacter": "Brilliant, piercing, luminous, high-pitched agility",
+    "playingTechniques": ["High-register legato (高音连弓)", "Agile trills (颤音)"]
+  },
+  {
+    "id": "zhonghu",
+    "name": "中胡",
+    "pinyin": "Zhōnghú",
+    "category": "Bowed Strings (拉弦乐器)",
+    "englishTerms": ["Zhonghu", "Chinese viola fiddle"],
+    "promptKeywords": "deep warm zhonghu string swell, velvety low-mid violin resonance, rich background harmony",
+    "soundCharacter": "Deep, velvety, warm, grounding viola-like timbre",
+    "playingTechniques": ["Legato swells (长弓)", "Mellow vibrato (大揉弦)"]
+  },
+  {
+    "id": "dizi",
+    "name": "竹笛 (曲笛/梆笛)",
+    "pinyin": "Zhúdí",
+    "category": "Woodwinds (吹管乐器)",
+    "englishTerms": ["Dizi", "Chinese transverse bamboo flute", "Membrane flute"],
+    "promptKeywords": "airy agile bamboo dizi flute trills, distinctive buzzing membrane timbre, soaring folk melody, chirping grace notes",
+    "soundCharacter": "Crisp, bright, airy, with distinctive membrane buzzing sizzle (di-mo)",
+    "playingTechniques": ["Flutter tonguing (花舌)", "Glissando slide (历音)", "Grace trill (颤音)"]
+  },
+  {
+    "id": "xiao",
+    "name": "箫 / 洞箫",
+    "pinyin": "Xiāo",
+    "category": "Woodwinds (吹管乐器)",
+    "englishTerms": ["Xiao", "Chinese vertical end-blown flute"],
+    "promptKeywords": "deep haunting xiao flute, breathy atmospheric woodwind, ethereal solitary tone, melancholic air",
+    "soundCharacter": "Hollow, breathy, deep, solitary, profoundly atmospheric and spiritual",
+    "playingTechniques": ["Breathy tone (气音)", "Microtonal bending (俯仰指)"]
+  },
+  {
+    "id": "suona",
+    "name": "唢呐",
+    "pinyin": "Suǒnà",
+    "category": "Woodwinds (吹管乐器)",
+    "englishTerms": ["Suona", "Chinese double-reed horn", "Laba"],
+    "promptKeywords": "explosive piercing suona lead, triumphant festive brass reed, thrilling high crescendo, wild expressive glissando",
+    "soundCharacter": "Extremely powerful, piercing, jubilant, celebratory, heroic",
+    "playingTechniques": ["Circular breathing (循环换气)", "Glissando horn slide (大滑音)", "Bird imitation (仿鸟鸣)"]
+  },
+  {
+    "id": "sheng",
+    "name": "笙",
+    "pinyin": "Shēng",
+    "category": "Woodwinds (吹管乐器)",
+    "englishTerms": ["Sheng", "Chinese mouth-blown reed pipe organ"],
+    "promptKeywords": "ancient harmonic sheng chords, shimmering mouth organ pads, celestial organ-like polyphony",
+    "soundCharacter": "Celestial, harmonious, ethereal polyphony, the world's oldest reed organ",
+    "playingTechniques": ["Sustained polyphonic chords (双音和弦)", "Flutter tongue (花舌)"]
+  },
+  {
+    "id": "xun",
+    "name": "埙",
+    "pinyin": "Xūn",
+    "category": "Woodwinds (吹管乐器)",
+    "englishTerms": ["Xun", "Ancient Chinese clay ocarina"],
+    "promptKeywords": "ancient primordial clay xun resonance, sorrowful hollow whistling, earthen primitive wind",
+    "soundCharacter": "Earthen, hollow, desolate, ancient, deeply sorrowful",
+    "playingTechniques": ["Pitch drop (落音)", "Vibrato breath (虚音)"]
+  },
+  {
+    "id": "bianzhong",
+    "name": "编钟",
+    "pinyin": "Biānzhōng",
+    "category": "Percussion (打击乐器)",
+    "englishTerms": ["Bianzhong", "Ancient Chinese bronze ceremonial chime bells"],
+    "promptKeywords": "ancient ceremonial bianzhong bronze chime bells, majestic sacred bell tolls, metallic harmonic overtone, imperial solemnity",
+    "soundCharacter": "Majestic, monumental, sacred, imperial bronze chime resonance",
+    "playingTechniques": ["Heavy mallet strike (重锤打)", "Harmonic cascade (连击)"]
+  },
+  {
+    "id": "tanggu",
+    "name": "堂鼓 / 大鼓",
+    "pinyin": "Tánggǔ",
+    "category": "Percussion (打击乐器)",
+    "englishTerms": ["Tanggu", "Chinese ceremonial hall drum", "War drum"],
+    "promptKeywords": "thunderous deep Chinese war drums, galloping martial rhythm, visceral low-end impact, dynamic taiko-like roll",
+    "soundCharacter": "Visceral, thunderous, massive low-end punch, battle-ready pulse",
+    "playingTechniques": ["Center heavy strike (鼓心重击)", "Rim shot (击鼓圈)", "Tremolo drum roll (滚奏)"]
+  },
+  {
+    "id": "luo",
+    "name": "大锣 / 小锣",
+    "pinyin": "Luó",
+    "category": "Percussion (打击乐器)",
+    "englishTerms": ["Chinese Gongs", "Daluo", "Xiaoluo", "Opera pitch-bending gong"],
+    "promptKeywords": "dramatic Chinese pitch-bending opera gong, explosive shimmering crash, ceremonial crescendo",
+    "soundCharacter": "Explosive, dramatic, pitch-shifting upward/downward, iconic Chinese theatrical marker",
+    "playingTechniques": ["Upward glide (上滑音)", "Muted damp (按边止音)"]
+  }
+]

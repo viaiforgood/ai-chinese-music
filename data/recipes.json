@@ -1,0 +1,42 @@
+[
+  {
+    "id": "desert-epic",
+    "name": "大漠长歌 · 边塞交响史诗 (Desert Horizon Epic)",
+    "genre": "Epic Chinese Orchestral",
+    "mode": "Shang Mode (商调式)",
+    "tempo": 85,
+    "sunoPrompt": "Epic Chinese traditional orchestral, Shang mode pentatonic melody, heroic tanggu war drums, virtuosic pipa tremolo, crying erhu solo, soaring bamboo dizi, dramatic brass crescendo, cinematic wide stereo soundstage, 85 bpm",
+    "udioPrompt": "Cinematic war orchestral, Chinese battle drums, heroic brass and erhu crescendo, traditional pipa martial plucking, wide spatial soundscape",
+    "structureLyrics": "[Intro - Solitary Bamboo Flute and Distant Thunder Drum]\n\n[Verse 1 - Low strings and Pipa comping]\n黄沙漫卷天际阔，古道西风向长河。\n饮马长城旧城郭，剑气如霜照碧落。\n\n[Chorus - Full War Drums and Epic Choir]\n大漠孤烟直，长河落日圆！\n踏破贺兰缺，万古一平川！\n金戈铁马入梦来，浩气凌云天地还！\n\n[Instrumental Solo - Blazing Pipa and Erhu duel]\n\n[Outro - Fading Flute and Wind Ambient]\n烽烟已尽，江山如画。"
+  },
+  {
+    "id": "misty-jiangnan",
+    "name": "烟雨江南 · 现代流行中国风 (Misty Jiangnan Mandopop)",
+    "genre": "Contemporary Chinese R&B / Mandopop",
+    "mode": "Yu Mode (羽调式)",
+    "tempo": 92,
+    "sunoPrompt": "Chinese style contemporary Mandopop R&B, silky acoustic groove, intricate cascading guzheng arpeggios, jazzy electric piano, warm 808 sub bass, emotive melodic female vocals, delicate xiao flute fills, 92 bpm",
+    "udioPrompt": "Mandopop, Chinese pop ballad, acoustic guitar, intimate emotive melody, gentle guzheng accompaniment, smooth modern beat",
+    "structureLyrics": "[Intro - Soft Guzheng and Gentle Rain Ambient]\n\n[Verse 1]\n雨过天青云破处，青花瓷底有旧字。\n你提笔写下的诗，留在乌篷船的记忆。\n\n[Chorus - Full Bass and Sweeping Strings]\n烟雨蒙蒙，湿了谁的眉峰；\n晚风徐徐，吹动那一帘幽梦。\n千回百转，在青石巷的巷口与你相拥。\n\n[Outro]\n一篙春水，泛起心动。"
+  },
+  {
+    "id": "cyber-orient",
+    "name": "赛博东方 · 重低音国潮 Trap (Cyber Orient Trap)",
+    "genre": "Cyberpunk Chinese Trap Fusion",
+    "mode": "Shang / Minor Fusion",
+    "tempo": 130,
+    "sunoPrompt": "Cyberpunk Chinese trap fusion, distorted 808 sub bass, tight punchy drums, futuristic synthesizer arpeggio, sharp erhu hooks, Peking opera female falsetto vocal accents, aggressive, energetic, 130 bpm",
+    "udioPrompt": "Cyberpunk Chinese fusion, futuristic oriental trap, 808 sub bass, electronic guzheng, epic rhythm",
+    "structureLyrics": "[Intro - Glitch Electronic Sound with Distant Gong]\n墨染霓虹，龙魂觉醒！\n\n[Verse 1 - Driving 808 Hi-Hats]\n数据流淌在经脉，青砖雕刻出芯片。\n千年风骨未曾改，九天星河一线连！\n\n[Chorus - Full Bass Drop]\n破阵！踏碎这虚妄的幻象！\n长啸！引得那风雷震八方！\n东方神韵，在光年之外依旧滚烫！\n\n[Instrumental Break - Erhu Overdrive Solo]"
+  },
+  {
+    "id": "zen-guqin",
+    "name": "空山新雨 · 禅意清音独奏 (Zen Mountain Rain Meditation)",
+    "genre": "Zen Meditative Acoustic",
+    "mode": "Yu / Gong Mode",
+    "tempo": 58,
+    "sunoPrompt": "Zen meditative music, deep guqin resonance, ethereal atmospheric xiao flute, water droplets ambient, spacious silence, tranquil, acoustic clarity, 58 bpm",
+    "udioPrompt": "Ambient meditative, traditional guqin, atmospheric woodwind, tranquil contemplative soundscape",
+    "structureLyrics": "[Intro - Water droplet drops, Guqin single resonant pluck]\n\n[Verse - Peaceful breathing, spacious chords]\n空山不见人，但闻人语响。\n返景入深林，复照青苔上。\n\n[Instrumental Interlude - Xiao flute floating melody]\n\n[Outro - Resonant harmonics fading into silence]"
+  }
+]

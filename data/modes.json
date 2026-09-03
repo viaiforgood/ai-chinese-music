@@ -1,0 +1,42 @@
+[
+  {
+    "name": "宫调式 (Gong Mode)",
+    "notes": "1 2 3 5 6 (Do Re Mi Sol La)",
+    "westernEquivalent": "Major Pentatonic (Ionian flavor)",
+    "mood": "Majestic, dignified, peaceful, expansive, imperial grandeur (雍容大度 · 盛世华章)",
+    "promptKeywords": "Gong pentatonic mode, major pentatonic Chinese scale, bright imperial grandeur, uplifting harmonious",
+    "typicalGenres": ["Ceremonial Court Music (宫廷礼乐)", "Celebratory Hymns (盛典华章)", "Triumphant Anthems"]
+  },
+  {
+    "name": "商调式 (Shang Mode)",
+    "notes": "2 3 5 6 1 (Re Mi Sol La Do)",
+    "westernEquivalent": "Dorian Pentatonic flavor",
+    "mood": "Martial, heroic, resolute, melancholic frontier epic (铿锵悲壮 · 金戈铁马)",
+    "promptKeywords": "Shang mode pentatonic, heroic minor flavor, martial resolute drive, crying desert wind, heroic and tragic",
+    "typicalGenres": ["Battle Epics (史诗战歌)", "Frontier Poetry (边塞史诗)", "Martial Arts Wuxia (武侠热血)"]
+  },
+  {
+    "name": "角调式 (Jiao Mode)",
+    "notes": "3 5 6 1 2 (Mi Sol La Do Re)",
+    "westernEquivalent": "Phrygian Pentatonic flavor",
+    "mood": "Pastoral, spring vitality, tender longing, green mountain elegance (生机盎然 · 柔和舒展)",
+    "promptKeywords": "Jiao mode Chinese scale, organic pastoral warmth, tender springtime melody, gentle woodwind breeze",
+    "typicalGenres": ["Pastoral Folk (田园民谣)", "Spring Nature Odes (踏青赏春)", "Gentle Romantic Chinese Style"]
+  },
+  {
+    "name": "徵调式 (Zhi Mode)",
+    "notes": "5 6 1 2 3 (Sol La Do Re Mi)",
+    "westernEquivalent": "Mixolydian Pentatonic flavor",
+    "mood": "Joyous, enthusiastic, celebratory, festive fire and life (欢欣鼓舞 · 热烈奔放)",
+    "promptKeywords": "Zhi mode pentatonic, celebratory uplifting pulse, joyous folk festival, radiant fireworks melody",
+    "typicalGenres": ["Festive Folk Dances (民俗节庆)", "New Year Anthems (新年吉庆)", "Energetic Chinese Pop"]
+  },
+  {
+    "name": "羽调式 (Yu Mode)",
+    "notes": "6 1 2 3 5 (La Do Re Mi Sol)",
+    "westernEquivalent": "Minor Pentatonic (Aeolian flavor)",
+    "mood": "Deeply melancholic, poetic, starry, misty water, solitary reflection (深沉幽怨 · 空灵如水)",
+    "promptKeywords": "Yu mode minor pentatonic, melancholic ancient soul, misty water reflection, ethereal sorrowful beauty",
+    "typicalGenres": ["Misty Jiangnan (江南烟雨)", "Zen Meditation (禅意独步)", "Sentimental Love Ballads (深情古风)"]
+  }
+]
