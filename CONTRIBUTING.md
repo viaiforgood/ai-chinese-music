@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to the **AI Chinese Music Creation Toolkit & Prompt Cookbook**!
 
-This project is maintained by **VI AI for Good Foundation (唯爱AI公益基金会)** as an open standard to help global musicians, composers, and AI enthusiasts create authentic, expressive Chinese Music (華樂) using generative AI (Suno, Udio, Stable Audio, MusicGen).
+This project is maintained by **VI AI for Good Foundation (唯爱智能公益基金会)** as an open standard to help global musicians, composers, and AI enthusiasts create authentic, expressive Chinese Music (華樂) using generative AI (Suno, Udio, Stable Audio, MusicGen).
 
 ## How You Can Contribute
 

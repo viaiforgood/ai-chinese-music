@@ -2,7 +2,7 @@
 
 /**
  * AI Chinese Music Toolkit (ai-chinese-music CLI)
- * Developed by VI AI for Good Foundation (唯爱AI公益基金会)
+ * Developed by VI AI for Good Foundation (唯爱智能公益基金会)
  * Open-source under MIT License.
  */
 
@@ -23,7 +23,7 @@ const args = process.argv.slice(2);
 console.log(`\x1b[36m
   ╔════════════════════════════════════════════════════════════════════╗
   ║    🎵 AI Chinese Music Creation Toolkit & Prompt Cookbook 🎼        ║
-  ║    by VI AI for Good Foundation (唯爱AI公益基金会)                 ║
+  ║    by VI AI for Good Foundation (唯爱智能公益基金会)                 ║
   ║    Official Portal: https://music.weiai.ai                         ║
   ╚════════════════════════════════════════════════════════════════════╝
 \x1b[0m`);
